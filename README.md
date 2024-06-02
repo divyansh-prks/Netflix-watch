@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,4 +70,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-1. Install tailwind css 
+1. Install tailwind css  -->
+
+
+- Header 
+- Routing of App
+- Login Form 
+- Sign Up form 
+- Form Validation 
+- UseRef Hook 
+- Firebase Setup 
+- Deploying our app to production 
+- create signup user account 
+- implement sign in user Api 
+- created redux store with userslice 
+- implemented sign out 
+- remaining user profile 
+- BugFix - Signup user display name and profile picture not updated still
+- BugFix = if the user is not logged in redirect /browse to login page and vice versa 
+- Unsubscribed to the onAuthStateChanged Callback
+- Add hardcoded values to constants file 
