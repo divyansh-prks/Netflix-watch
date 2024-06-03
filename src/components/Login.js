@@ -21,7 +21,7 @@ const Login = () => {
         //validate form 
         // console.log(email)
         const message =checkValidateData(email.current.value,password.current.value)
-        console.log(message)
+        // console.log(message)
         setErrorMessage(message)
         if(message) return ;
         //signin form 
@@ -59,7 +59,7 @@ const Login = () => {
     .then((userCredential) => {
         // Signed in 
         const user = userCredential.user;
-        console.log(user)
+        // console.log(user)
         // ...
     })
   .catch((error) => {

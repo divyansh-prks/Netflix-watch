@@ -90,3 +90,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - BugFix = if the user is not logged in redirect /browse to login page and vice versa 
 - Unsubscribed to the onAuthStateChanged Callback
 - Add hardcoded values to constants file 
+- Register TMDB APi and create an app and get access token  (Important part)
+- Get data in console 
+- Custom Hook For now playing Movies
+- create Movieslice 
+- update store with movies data
+- planning for main container & secondary container 
+- Fetch Data for Trailer Video 
+- Update Store WIth trailer Video Data 
+- Embedded the youtube video and make it autoplay and mute 
+- Tailwind classes to make main container look awesome 
+
