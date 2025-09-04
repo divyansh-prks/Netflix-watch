@@ -11,6 +11,7 @@
 # production
 /build
 
+#added here 
 .env
 .env.*
 /.env
